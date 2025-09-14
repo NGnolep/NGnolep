@@ -22,7 +22,7 @@
       </th>
     </tr>
     <tr>
-      <th width="50%" height="400" valign="top"><h1>Haunting Echoes</h1>
+      <th width="50%" height="400" valign="top"><h1>Haunting Echoe</h1>
         <img width="1920" height="1080" alt="TitleHE" src="https://github.com/user-attachments/assets/742e1a21-c8a2-40bf-8e54-792052fd43bd" />
         <p>The bell rung and you don't know where you are, you feel cold everywhere and sharp gazes are upon you. You know that this place is empty or is it?.</p>
         <p><a href="https://github.com/NGnolep/ICDA---GameSeed">Go To Repository Page</a></p>
@@ -30,14 +30,13 @@
         <h2>Submission for GAMESEED 2025</h2>
         <p>Nhoel Goei - Game Programmer</p>
       </th>
-      <th width="50%" height="400" valign="top"><h1>Magic Magistry</h1>
-        <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/caabe545-ba63-40e5-bacd-84b6185cdaa2" />
-        <p>Magic Magistry is a spellcasting survival game. Combine different spell components to fight off the horde of enemies and survive for as long as you can</p>
-        <p><a href="https://github.com/Steven111105/MagicMagistry">Go To Repository Page</a></p>
-        <p><a href="https://steven111105.itch.io/magic-magistry">Go To Itch.io Page</a></p>
-        <h2>Created for Game Programming Class</h2>
-        <p>Steven Wijaya (Me) - Game Programmer</p>
-        <p>Art and Sound assets are credited in the itch & repository page</p>
+      <th width="50%" height="400" valign="top"><h1>Tides of Knowledge</h1>
+        <img width="1805" height="1211" alt="titleSGG" src="https://github.com/user-attachments/assets/9f89ccfa-3757-46e4-a458-6d393de9e007" />
+        <p>Throughout the year people doesn't care about the ocean and it shows how polluted our ocean is, Tides of Knowledge provides knowledge about almost extinct oceanic animal that people can save by knowing facts about them. Knowing facts will help interest and this will help our ocean.</p>
+        <p><a href="https://github.com/NGnolep/SGG">Go To Repository Page</a></p>
+        <p><a href="">Go To Itch.io Page</a></p>
+        <h2>Created for Serious Game Class</h2>
+        <p>Nhoel Goei - Game Programmer</p>
       </th>
     </tr>
   </table>
