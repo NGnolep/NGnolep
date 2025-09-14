@@ -4,8 +4,8 @@
 # My Projects
   <table width="100%"j>
     <tr>
-      <th width="50%" height="400" valign="top"><h1>Into The Woods</h1>
-        <img width="1920" height="1080" alt="486666189-ef82f88e-1c53-4db0-a7bd-0675477093a5" src="https://github.com/user-attachments/assets/6a0d4630-c2c0-4fbd-90ad-6f82fb9bd871" />
+      <th width="50%" height="400" valign="top"><h1>Lush Garner</h1>
+        <img width="2420" height="1668" alt="title (3)" src="https://github.com/user-attachments/assets/df827e04-3791-4368-b4f2-c56f5cc209c2" />
         <p>Into the Woods is a turn-based card game where the core mechanic allows player to merge cards based on Bloom's Taxonomy framework. It tells the story of children trapped inside the woods surrounded by hostile creatures that prevents them from escaping. Get better skills and/or strengthen their old ones, find allies and trinkets and escape the woods!</p>
         <p><a href="https://github.com/Steven111105/">Go To Repository Page</a></p>
         <p><a href="">Go To Itch.io Page</a></p>
