@@ -13,7 +13,7 @@
         <p>Nhoel Goei - Game Programmer</p>
       </th>
       <th width="50%" height="400" valign="top"><h1>Yggdrasil's Regrowth</h1>
-        <img width="1024" height="1024" alt="titel" src="https://github.com/user-attachments/assets/bf497a38-525c-41fb-9eff-1cf5c697cf83" />
+        <img width="1920" height="1080" alt="titel" src="https://github.com/user-attachments/assets/bf497a38-525c-41fb-9eff-1cf5c697cf83" />
         <p>Defend the tree of yggdrasil that is on the process of healing after a difficult war. Are your hand fast enough to repel all the enemy?</p>
         <p><a href="https://github.com/Nicholasdputra/Krisis-Waktu">Go To Repository Page</a></p>
         <p><a href="https://nhoelg0203.itch.io/yggdrasils-regrowth">Go To Itch.io Page</a></p>
