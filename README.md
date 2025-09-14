@@ -9,7 +9,7 @@
         <p>Lush Garner is a farming simulator game where the core mechanic allows player to buy seeds from shop then farm them. It shows the hardship of farming in these days and also how to farm.</p>
         <p><a href="https://github.com/NGnolep/Lush-Garner">Go To Repository Page</a></p>
         <p><a href="">Go To Itch.io Page</a></p>
-        <h2></h2>
+        <h2>Created for Software Engineering CLass</h2>
         <p>Nhoel Goei - Game Programmer</p>
       </th>
       <th width="50%" height="400" valign="top"><h1>Yggdrasil's Regrowth</h1>
@@ -22,15 +22,13 @@
       </th>
     </tr>
     <tr>
-      <th width="50%" height="400" valign="top"><h1>Structor</h1>
-        <img width="1920" height="1080" alt="486676140-2071763e-3804-45ee-ba17-01b417498cbf" src="https://github.com/user-attachments/assets/fcb0ed33-0f21-46b0-9393-03291668775b" />
-        <p>Structor is a 2D pixel art strategy builder game where the player needs to build a circuit with a set amount of cards. In the game, player are tasked to keep up with increasing quotas by buying different cards, getting upgrades, and strategizing the wire configuration that will yield the highest points.</p>
-        <p><a href="https://github.com/Steven111105/Structor">Go To Repository Page</a></p>
+      <th width="50%" height="400" valign="top"><h1>Haunting Echoes</h1>
+        <img width="368" height="240" alt="TitleHE" src="https://github.com/user-attachments/assets/742e1a21-c8a2-40bf-8e54-792052fd43bd" />
+        <p>The bell rung and you don't know where you are, you feel cold everywhere and sharp gazes are upon you. You know that this place is empty or is it?.</p>
+        <p><a href="https://github.com/NGnolep/ICDA---GameSeed">Go To Repository Page</a></p>
         <p><a href="https://steven111105.itch.io/structor">Go To Itch.io Page</a></p>
-        <h2>Submission for GameToday2025</h2>
-        <p>Nhoel M. K. D. Goei - Game Designer</p>
-        <p>Steven Wijaya (Me) - Game Programmer</p>
-        <p>Leonardi - 2D Game Artist</p>
+        <h2>Submission for GAMESEED 2025</h2>
+        <p>Nhoel Goei - Game Programmer</p>
       </th>
       <th width="50%" height="400" valign="top"><h1>Magic Magistry</h1>
         <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/caabe545-ba63-40e5-bacd-84b6185cdaa2" />
