@@ -6,13 +6,15 @@
     <tr>
       <th width="50%" height="400" valign="top"><h1>Lush Garner</h1>
         <img width="1920" height="1080" alt="title (3)" src="https://github.com/user-attachments/assets/df827e04-3791-4368-b4f2-c56f5cc209c2" />
-        <p>Into the Woods is a turn-based card game where the core mechanic allows player to merge cards based on Bloom's Taxonomy framework. It tells the story of children trapped inside the woods surrounded by hostile creatures that prevents them from escaping. Get better skills and/or strengthen their old ones, find allies and trinkets and escape the woods!</p>
-        <p><a href="https://github.com/Steven111105/">Go To Repository Page</a></p>
+        <p>Lush Garner is a farming simulator game where the core mechanic allows player to buy seeds from shop then farm them. It shows the hardship of farming in these days and also how to farm.</p>
+        <p><a href="https://github.com/NGnolep/Lush-Garner">Go To Repository Page</a></p>
         <p><a href="">Go To Itch.io Page</a></p>
         <h2></h2>
-        <p>Clarabelle Karin Wijaya - Game Artist</p>
-        <p>Natania Maria Kurniawan - Game Designer</p>
-        <p>Steven Wijaya (Me) - Game Programmer</p>
+        <p>Pieter Nathanael - Game Designer</p>
+        <p>Leonardi - Game Artist</p>
+        <p>Anthoni Giovanni - Game Artist</p>
+        <p>Nhoel Goei (Me) - Game Programmer</p>
+        <p>Bryant Chandra - Game Programmer</p>
       </th>
       <th width="50%" height="400" valign="top"><h1>SpaceBun</h1>
         <img width="2560" height="1440" alt="thumbnail" src="https://github.com/user-attachments/assets/e221df8d-931a-4163-815c-e9185e490f41" />
