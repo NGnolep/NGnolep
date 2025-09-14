@@ -10,21 +10,15 @@
         <p><a href="https://github.com/NGnolep/Lush-Garner">Go To Repository Page</a></p>
         <p><a href="">Go To Itch.io Page</a></p>
         <h2></h2>
-        <p>Pieter Nathanael - Game Designer</p>
-        <p>Leonardi - Game Artist</p>
-        <p>Anthoni Giovanni - Game Artist</p>
-        <p>Nhoel Goei (Me) - Game Programmer</p>
-        <p>Bryant Chandra - Game Programmer</p>
+        <p>Nhoel Goei - Game Programmer</p>
       </th>
-      <th width="50%" height="400" valign="top"><h1>SpaceBun</h1>
-        <img width="2560" height="1440" alt="thumbnail" src="https://github.com/user-attachments/assets/e221df8d-931a-4163-815c-e9185e490f41" />
-        <p>Help bunnies in space to cross between planets and avoid stellar object. Buy space-traffic facilities and reach certain score to unlock stories every level. See yourself the importance of traffic facilities on pedestrian crossing, while learning its uses in a cute and fun way!</p>
-        <p><a href="https://github.com/Steven111105/Spacebun">Go To Repository Page</a></p>
-        <p><a href="https://steven111105.itch.io/spacebun">Go To Itch.io Page</a></p>
-        <h2>Submission for GEMASTIK 2024</h2>
-        <p>Clarabelle Karin Wijaya - Game Artist</p>
-        <p>Natania Maria Kurniawan - Game Designer</p>
-        <p>Steven Wijaya (Me) - Game Programmer</p>
+      <th width="50%" height="400" valign="top"><h1>Yggdrasil's Regrowth</h1>
+        <img width="1024" height="1024" alt="titel" src="https://github.com/user-attachments/assets/bf497a38-525c-41fb-9eff-1cf5c697cf83" />
+        <p>Defend the tree of yggdrasil that is on the process of healing after a difficult war. Are your hand fast enough to repel all the enemy?</p>
+        <p><a href="https://github.com/Nicholasdputra/Krisis-Waktu">Go To Repository Page</a></p>
+        <p><a href="https://nhoelg0203.itch.io/yggdrasils-regrowth">Go To Itch.io Page</a></p>
+        <h2>Submission for GAMESEED 2024</h2>
+        <p>Nhoel Goei - Game Programmer</p>
       </th>
     </tr>
     <tr>
