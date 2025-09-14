@@ -26,7 +26,7 @@
         <img width="1920" height="1080" alt="TitleHE" src="https://github.com/user-attachments/assets/742e1a21-c8a2-40bf-8e54-792052fd43bd" />
         <p>The bell rung and you don't know where you are, you feel cold everywhere and sharp gazes are upon you. You know that this place is empty or is it?.</p>
         <p><a href="https://github.com/NGnolep/ICDA---GameSeed">Go To Repository Page</a></p>
-        <p><a href="https://steven111105.itch.io/structor">Go To Itch.io Page</a></p>
+        <p><a href="https://lzyu5.itch.io/haunting-echoes">Go To Itch.io Page</a></p>
         <h2>Submission for GAMESEED 2025</h2>
         <p>Nhoel Goei - Game Programmer</p>
       </th>
