@@ -5,7 +5,7 @@
   <table width="100%"j>
     <tr>
       <th width="50%" height="400" valign="top"><h1>Lush Garner</h1>
-        <img width="1920" height="1080" alt="title (3)" src="https://github.com/user-attachments/assets/df827e04-3791-4368-b4f2-c56f5cc209c2" />
+        <img width="1920" height="1080" alt="titleSE" src="https://github.com/user-attachments/assets/9e33bfa3-0675-4c0f-813d-bd3766685dd7" />
         <p>Lush Garner is a farming simulator game where the core mechanic allows player to buy seeds from shop then farm them. It shows the hardship of farming in these days and also how to farm.</p>
         <p><a href="https://github.com/NGnolep/Lush-Garner">Go To Repository Page</a></p>
         <p><a href="">Go To Itch.io Page</a></p>
