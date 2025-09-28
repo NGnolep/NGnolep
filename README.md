@@ -10,7 +10,7 @@
         <h2><p>Lush Garner is a farming simulator game where the core mechanic allows player to buy seeds from shop then farm them. It shows the hardship of farming in these days and also how to farm.</p></h2>
         <h2><p><a href="https://github.com/NGnolep/Lush-Garner">Go To Repository Page</a></p></h2>
         <h2><p><a href="">Go To Itch.io Page</a></p></h2>
-        <h2>Created for Software Engineering Class</h2>
+        Created for Software Engineering Class
         <p>Nhoel Goei - Game Programmer</p>
       </th>
       <th width="50%" height="400" valign="top"><h1>Yggdrasil's Regrowth</h1>
