@@ -1,5 +1,5 @@
-# Hi there, I'm Nhoel Goei 👋
-## Im a game programmer from Binus University. I mainly use Unity and C# to develop games
+# Hello there, I'm Nhoel Goei !
+## Im a passionate game programmer. I mainly use Unity and C# to develop games!
 ---
 # My Projects
   <table width="100%"j>
