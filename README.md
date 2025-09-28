@@ -35,7 +35,7 @@
         <h2><img width="400" height="400" alt="titleSGG" src="https://github.com/NGnolep/SGG/blob/main/Assets/SGG.gif"/></h2>
         <h2><p>Throughout the year people doesn't care about the ocean and it shows how polluted our ocean is, Tides of Knowledge provides knowledge about almost extinct oceanic animal that people can save by knowing facts about them. Knowing facts will help interest and this will help our ocean.</p></h2>
         <h2><p><a href="https://github.com/NGnolep/SGG">Go To Repository Page</a></p></h2>
-        <h2><p><a href="">Go To Itch.io Page</a></p></h2>
+        <h2><p><a href="https://nhoelg0203.itch.io/tides-of-knowledge">Go To Itch.io Page</a></p></h2>
         Created for Serious Game Class
         <p>Nhoel Goei - Game Programmer</p>
       </th>
