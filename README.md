@@ -46,9 +46,8 @@
 
 # 👨 More About Me
 Aside from becoming a game programmer, here are some other things I've done:<br>
-  - Worked as a game designer on a few projects (sometimes while also being a game programmer)<br>
+  - Worked as a game designer on a few projects<br>
   - Worked together along with many others as a freshman chaperone, which has improved my collaboration and communication skills<br>
 <br>
-I am passionate about game development and it is my aspiration to create experiences that not only entertain but also foster emotional resonance as well as meaningful connections with and amongst my players.
 
 ---
