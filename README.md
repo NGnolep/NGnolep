@@ -23,7 +23,7 @@
       </th>
     </tr>
     <tr>
-      <th width="50%" height="400" valign="top"><h1>Haunting Echoe</h1>
+      <th width="50%" height="400" valign="top"><h1>Haunting Echoes</h1>
         <img width="1920" height="1080" alt="TitleHE" src="https://github.com/user-attachments/assets/742e1a21-c8a2-40bf-8e54-792052fd43bd" />
         <p>The bell rung and you don't know where you are, you feel cold everywhere and sharp gazes are upon you. You know that this place is empty or is it?.</p>
         <p><a href="https://github.com/NGnolep/ICDA---GameSeed">Go To Repository Page</a></p>
@@ -32,7 +32,7 @@
         <p>Nhoel Goei - Game Programmer</p>
       </th>
       <th width="50%" height="400" valign="top"><h1>Tides of Knowledge</h1>
-        <img width="1805" height="1211" alt="titleSGG" src="https://github.com/user-attachments/assets/9f89ccfa-3757-46e4-a458-6d393de9e007" />
+        <img width="400" height="400" alt="titleSGG" src="https://github.com/user-attachments/assets/9f89ccfa-3757-46e4-a458-6d393de9e007" />
         <p>Throughout the year people doesn't care about the ocean and it shows how polluted our ocean is, Tides of Knowledge provides knowledge about almost extinct oceanic animal that people can save by knowing facts about them. Knowing facts will help interest and this will help our ocean.</p>
         <p><a href="https://github.com/NGnolep/SGG">Go To Repository Page</a></p>
         <p><a href="">Go To Itch.io Page</a></p>
