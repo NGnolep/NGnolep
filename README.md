@@ -6,11 +6,11 @@
   <table width="100%"j>
     <tr>
       <th width="50%" height="400" valign="top"><h1>Lush Garner</h1>
-        <img width="400" height="400" alt="titleSE" src="https://github.com/NGnolep/Lush-Garner/blob/main/Assets/Assets/Lushgarner.gif"/>
-        <p>Lush Garner is a farming simulator game where the core mechanic allows player to buy seeds from shop then farm them. It shows the hardship of farming in these days and also how to farm.</p>
-        <p><a href="https://github.com/NGnolep/Lush-Garner">Go To Repository Page</a></p>
-        <p><a href="">Go To Itch.io Page</a></p>
-        <h2>Created for Software Engineering Class</h2>
+        <h2><img width="400" height="400" alt="titleSE" src="https://github.com/NGnolep/Lush-Garner/blob/main/Assets/Assets/Lushgarner.gif"/></h2>
+        <h3><p>Lush Garner is a farming simulator game where the core mechanic allows player to buy seeds from shop then farm them. It shows the hardship of farming in these days and also how to farm.</p></h3>
+        <h4><p><a href="https://github.com/NGnolep/Lush-Garner">Go To Repository Page</a></p></h4>
+        <h5><p><a href="">Go To Itch.io Page</a></p></h5>
+        <h6>Created for Software Engineering Class</h6>
         <p>Nhoel Goei - Game Programmer</p>
       </th>
       <th width="50%" height="400" valign="top"><h1>Yggdrasil's Regrowth</h1>
