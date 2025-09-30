@@ -15,7 +15,7 @@
       </th>
       <th width="50%" height="400" valign="top"><h1>Yggdrasil's Regrowth</h1>
         <h2><img width="400" height="400" alt="titleYGG" src="https://github.com/Nicholasdputra/Krisis-Waktu/blob/main/Assets/yqq.gif" /></h2>
-        <h2><p>Defend the tree of yggdrasil that is on the process of healing after a difficult war.<br> Are your hand fast enough to repel all the enemy?</p></h2>
+        <h2><p>Defend the tree of yggdrasil that is on the process of healing after a difficult war. Are your hand fast enough to repel all the enemy?</p></h2>
         <h2><p><a href="https://github.com/Nicholasdputra/Krisis-Waktu">Go To Repository Page</a></p></h2>
         <h2><p><a href="https://nhoelg0203.itch.io/yggdrasils-regrowth">Go To Itch.io Page</a></p></h2>
         Submission for GAMESEED 2024
