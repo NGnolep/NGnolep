@@ -130,10 +130,10 @@
   <tbody>
     <tr>
       <td valign="top" align="center">
-        <img src=""/> 
+        <img src="https://github.com/user-attachments/assets/fcb0ed33-0f21-46b0-9393-03291668775b"/> 
       </td>
       <td valign="top" align="center">
-        <img src=""/> 
+        <img src="https://github.com/Steven111105/Runtimes/blob/main/Assets/Sprites/RuntimeFullBG.png"/> 
       </td>
     </tr>
     <tr>
