@@ -73,10 +73,10 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://github.com/NGnolep/ICDA---GameSeed/blob/main/Assets/Asset/HauntingEchoes.gif”/>
+        <img src="https://github.com/NGnolep/ICDA---GameSeed/blob/main/Assets/Asset/HauntingEchoes.gif"/> 
       </td>
       <td>
-        <img src="https://github.com/NGnolep/SGG/blob/main/Assets/SGG.gif"/> 
+        <img src="https://github.com/NGnolep/SGG/blob/main/Assets/SGG.gif"/>  
       </td>
     </tr>
     <tr>
