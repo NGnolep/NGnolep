@@ -1,5 +1,10 @@
 # Hello there, I'm Nhoel Goei !
-<p>Im a passionate game programmer. I mainly use Unity and C# to develop games!</p>
+*About Me*<br>
+<p>Im a game programmer. I mainly use Unity and C# to develop games, I've Created various of work for projects or competitions.</p>
+
+*Contact Info*
+<a href="https://github.com/NGnolep/Lush-Garner">Email</a>
+
 
 ---
 # My Projects
