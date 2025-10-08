@@ -105,10 +105,10 @@
     </tr>
     <tr>
       <td valign="top" align="center">
-        <a href="https://lzyu5.itch.io/haunting-echoes">Itch Page</a> 
+        <a href="https://lzyu5.itch.io/haunting-echoes">Go To Itch.io Page</a> 
       </td>
       <td valign="top" align="center">
-        <a href="https://nhoelg0203.itch.io/tides-of-knowledge">Itch Page</a>
+        <a href="https://nhoelg0203.itch.io/tides-of-knowledge">Go To Itch.io Page</a>
       </td> 
     </tr>
   </tbody>
