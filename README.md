@@ -50,7 +50,7 @@
     </tr>
     <tr>
       <td valign="top" align="center">
-        <a href="e">Go To Itch.io Page</a> 
+        <a href="">Go To Itch.io Page</a> 
       </td>
       <td valign="top" align="center">
         <a href="https://nhoelg0203.itch.io/yggdrasils-regrowth">Go To Itch.io Page</a> 
@@ -114,13 +114,70 @@
   </tbody>
 </table>
 
+# My work as a Game Designer
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%">
+        <h2>Structor</h2>
+      </th>
+      <th width="50%">
+        <h2>RUNTIMES</h2>
+      </th> 
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" align="center">
+        <img src=""/> 
+      </td>
+      <td valign="top" align="center">
+        <img src=""/> 
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" align="center">
+        Structor is a 2D pixel art strategy builder game where the player needs to build a circuit with a set amount of cards. In the game, player are tasked to keep up with increasing quotas by buying different cards, getting upgrades, and strategizing the wire configuration that will yield the highest points.
+      </td>
+      <td valign="top" align="center">
+        A point and puzzle click that will not give the player any instructions. Is it that hard to find a purpose?
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" align="center">
+        2nd Runner Up of GAMETODAY 2025 - Game Designer
+      </td>
+      <td valign="top" align="center">
+        Champion of IGI GAMEJAM 2025 - Game Designer
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" align="center">
+        <a href="https://github.com/Steven111105/Structor">Go To Repository Page</a>
+      </td> 
+      <td valign="top" align="center">
+        <a href="https://github.com/Steven111105/Runtimes">Go To Repository Page</a>
+      </td> 
+    </tr>
+    <tr>
+      <td valign="top" align="center">
+        <a href="https://steven111105.itch.io/structor">Go To Itch.io Page</a> 
+      </td>
+      <td valign="top" align="center">
+        <a href="https://nhoelg0203.itch.io/runtimes">Go To Itch.io Page</a> 
+      </td> 
+    </tr>
+  </tbody>
+</table>
 ---
 
-# 
+# More About Me
 Aside from becoming a game programmer, here are some other things I've done:<br>
   - Worked as a game designer on a few projects<br>
   - Worked together along with many others as a freshman chaperone, which has improved my collaboration and communication skills<br>
-<br>
+
+# Here are some of my works for Designing!
 
 
 ---
