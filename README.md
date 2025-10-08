@@ -2,7 +2,7 @@
 *About Me*<br>
 <p>Im a game programmer. I mainly use Unity and C# to develop games, I've Created various of work for projects or competitions.</p>
 
-*Contact Info*
+*Contact Info*<br>
 <a href="https://github.com/NGnolep/Lush-Garner">Email</a>
 
 
