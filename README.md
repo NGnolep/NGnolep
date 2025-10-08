@@ -18,10 +18,10 @@
   <tbody>
     <tr>
       <td valign="top" align="center">
-        <img src="https://github.com/NGnolep/Lush-Garner/blob/main/Assets/Assets/Lushgarner.gif"/> 
+        <img src="https://github.com/NGnolep/Lush-Garner/blob/main/Assets/Assets/LGLanding.gif"/> 
       </td>
       <td valign="top" align="center">
-        <img src="https://github.com/Nicholasdputra/Krisis-Waktu/blob/main/Assets/yqq.gif"/> 
+        <img src="https://github.com/Nicholasdputra/Krisis-Waktu/blob/main/Assets/YGGLanding.gif"/> 
       </td>
     </tr>
     <tr>
@@ -73,10 +73,10 @@
   <tbody>
     <tr>
       <td valign="top" align="center">
-        <img src="https://github.com/NGnolep/ICDA---GameSeed/blob/main/Assets/Asset/HauntingEchoes.gif"/> 
+        <img src="https://github.com/NGnolep/ICDA---GameSeed/blob/main/Assets/Asset/HELanding.gif"/> 
       </td>
       <td valign="top" align="center">
-        <img src="https://github.com/NGnolep/SGG/blob/main/Assets/SGG.gif"/>  
+        <img src="https://github.com/NGnolep/SGG/blob/main/Assets/TidesOfKnowledgeLanding.gif"/>  
       </td>
     </tr>
     <tr>
