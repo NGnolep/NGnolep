@@ -17,10 +17,10 @@
   </thead>
   <tbody>
     <tr>
-      <td>
+      <td valign="top" align="center">
         <img src="https://github.com/NGnolep/Lush-Garner/blob/main/Assets/Assets/Lushgarner.gif"/> 
       </td>
-      <td>
+      <td valign="top" align="center">
         <img src="https://github.com/Nicholasdputra/Krisis-Waktu/blob/main/Assets/yqq.gif"/> 
       </td>
     </tr>
@@ -72,10 +72,10 @@
   </thead>
   <tbody>
     <tr>
-      <td>
+      <td valign="top" align="center">
         <img src="https://github.com/NGnolep/ICDA---GameSeed/blob/main/Assets/Asset/HauntingEchoes.gif"/> 
       </td>
-      <td>
+      <td valign="top" align="center">
         <img src="https://github.com/NGnolep/SGG/blob/main/Assets/SGG.gif"/>  
       </td>
     </tr>
