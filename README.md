@@ -133,7 +133,7 @@
         <img src="https://github.com/user-attachments/assets/fcb0ed33-0f21-46b0-9393-03291668775b"/> 
       </td>
       <td valign="top" align="center">
-        <img src="https://github.com/Steven111105/Runtimes/blob/main/Assets/Sprites/RuntimeFullBG.png" style="display:block; margin:auto;" width="400"/> 
+        <img src="https://github.com/Steven111105/Runtimes/blob/main/Assets/Sprites/RuntimeFullBG.png" style="display:block; margin:auto;" width="450"/> 
       </td>
     </tr>
     <tr>
