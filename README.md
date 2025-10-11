@@ -5,61 +5,6 @@
 
 ---
 # Here are some of my works for programming!
-  <table width="100%">
-  <thead>
-    <tr>
-      <th width="50%">
-        <h2>Lush Garner</h2>
-      </th>
-      <th width="50%">
-        <h2>Yggdrasil’s Regrowth</h2>
-      </th> 
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top" align="center">
-        <img src="https://github.com/NGnolep/Lush-Garner/blob/main/Assets/Assets/LGLanding.gif"/> 
-      </td>
-      <td valign="top" align="center">
-        <img src="https://github.com/Nicholasdputra/Krisis-Waktu/blob/main/Assets/YGGLanding.gif"/> 
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" align="center">
-        Lush Garner is a farming simulator game where the core mechanic allows the player to buy seeds from a shop then farm them. It shows the hardship of farming these days and also how to farm.
-      </td>
-      <td valign="top" align="center">
-        Defend the tree of yggdrasil that is in the process of healing after a difficult war. Are your hands fast enough to repel all the enemy?
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" align="center">
-        Created for Software Engineering Class - Game Programmer
-      </td>
-      <td valign="top" align="center">
-        Submission for GAMESEED 2024 - Game Programmer
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" align="center">
-        <a href="https://github.com/NGnolep/Lush-Garner">Go To Repository Page</a>
-      </td> 
-      <td valign="top" align="center">
-        <a href="https://github.com/Nicholasdputra/Krisis-Waktu">Go To Repository Page</a>
-      </td> 
-    </tr>
-    <tr>
-      <td valign="top" align="center">
-        <a href="">Go To Itch.io Page</a> 
-      </td>
-      <td valign="top" align="center">
-        <a href="https://nhoelg0203.itch.io/yggdrasils-regrowth">Go To Itch.io Page</a> 
-      </td> 
-    </tr>
-  </tbody>
-</table>
-<br>
 <table width="100%">
   <thead>
     <tr>
@@ -114,7 +59,61 @@
     </tr>
   </tbody>
 </table>
-
+<br>
+ <table width="100%">
+  <thead>
+    <tr>
+      <th width="50%">
+        <h2>Lush Garner</h2>
+      </th>
+      <th width="50%">
+        <h2>Yggdrasil’s Regrowth</h2>
+      </th> 
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" align="center">
+        <img src="https://github.com/NGnolep/Lush-Garner/blob/main/Assets/Assets/LGLanding.gif"/> 
+      </td>
+      <td valign="top" align="center">
+        <img src="https://github.com/Nicholasdputra/Krisis-Waktu/blob/main/Assets/YGGLanding.gif"/> 
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" align="center">
+        Lush Garner is a farming simulator game where the core mechanic allows the player to buy seeds from a shop then farm them. It shows the hardship of farming these days and also how to farm.
+      </td>
+      <td valign="top" align="center">
+        Defend the tree of yggdrasil that is in the process of healing after a difficult war. Are your hands fast enough to repel all the enemy?
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" align="center">
+        Created for Software Engineering Class - Game Programmer
+      </td>
+      <td valign="top" align="center">
+        Submission for GAMESEED 2024 - Game Programmer
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" align="center">
+        <a href="https://github.com/NGnolep/Lush-Garner">Go To Repository Page</a>
+      </td> 
+      <td valign="top" align="center">
+        <a href="https://github.com/Nicholasdputra/Krisis-Waktu">Go To Repository Page</a>
+      </td> 
+    </tr>
+    <tr>
+      <td valign="top" align="center">
+        <a href="">Go To Itch.io Page</a> 
+      </td>
+      <td valign="top" align="center">
+        <a href="https://nhoelg0203.itch.io/yggdrasils-regrowth">Go To Itch.io Page</a> 
+      </td> 
+    </tr>
+  </tbody>
+</table>
 # My work as a Game Designer
 
 <table width="100%">
