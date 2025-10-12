@@ -1,6 +1,6 @@
 #  Hello there, I'm Nhoel Goei!
 *About Me*<br>
-<p>I'm a game programmer. I mainly use Unity and C# to develop games, I've Created various of work for projects or competitions.</p>
+<p>Hello there, I'm a game programmer that mades various of games with various game mechanic. I would love to learn more about game making to improve my skill sets. I mainly use Unity and C# to develop games also i've Created various of work for projects or competitions.</p>
 <p>CV Link: <a href="https://www.canva.com/design/DAG1e7e-yiA/ax0C6vHoherRcgwwtNNCHg/edit?utm_content=DAG1e7e-yiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Go To CV Page</a></p>
 
 ---
