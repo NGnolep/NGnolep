@@ -27,7 +27,7 @@
     </tr>
     <tr>
       <td valign="top" align="center">
-        The bell rang and you wonder where you are, you feel cold everywhere and sharp gazes are upon you. You know that this place is empty or is it?. A horror survival game with the goal to escape the roaming horror. Contribution in Enemy pathfinding, Player status and movement, and Item behavior. Made in 5 days.
+        The bell rang and you wonder where you are, It is cold everywhere and sharp gazes are upon you. You know that this place is empty or is it?. A horror survival game with the goal to escape the roaming horror. Contribution in Enemy pathfinding, Player status and movement, and Item behavior. Made in 5 days.
       </td>
       <td valign="top" align="center">
        Throughout the year people don't care about the ocean and it shows how polluted our ocean is. Tides of Knowledge provides knowledge about almost extinct oceanic animals that people can save by knowing facts about them. Contribution in making every mechanic that is available in this game. Made in 1 week. 
