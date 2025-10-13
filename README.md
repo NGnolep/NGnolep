@@ -27,7 +27,7 @@
     </tr>
     <tr>
       <td valign="top" align="center">
-        The bell rang and you don't know where you are, you feel cold everywhere and sharp gazes are upon you. You know that this place is empty or is it?. A horror survival game with the goal to escape the roaming horror. Contribution in Enemy pathfinding, Player status and movement, and Item behavior. Made in 5 days.
+        The bell rang and you wonder where you are, you feel cold everywhere and sharp gazes are upon you. You know that this place is empty or is it?. A horror survival game with the goal to escape the roaming horror. Contribution in Enemy pathfinding, Player status and movement, and Item behavior. Made in 5 days.
       </td>
       <td valign="top" align="center">
        Throughout the year people don't care about the ocean and it shows how polluted our ocean is. Tides of Knowledge provides knowledge about almost extinct oceanic animals that people can save by knowing facts about them. Contribution in making every mechanic that is available in this game. Made in 1 week. 
@@ -81,7 +81,7 @@
     </tr>
     <tr>
       <td valign="top" align="center">
-        What is this job? Why is it so hard? because it shows the hardship of farming these days and also how to farm. A farming simulator game where the core mechanic allows the player to buy seeds from a shop then farm them. Contribution in making inventory, player, Currency, and shop Programmer. Made in 1 week.
+        What is this job? Why is it so hard? It shows the hardship of farming these days and also how to farm. A farming simulator game where the core mechanic allows the player to buy seeds from a shop then farm them. Contribution in making inventory, player, Currency, and shop Programmer. Made in 1 week.
       </td>
       <td valign="top" align="center">
         Defend the tree of yggdrasil that is in the process of healing after a difficult war. Are your hands fast enough to repel all the enemy?. A typing game which requires a fast comprehension and typing skills. Contribution in making NPC Behavior, Typing mechanic, skills mechanic programming. Made in 5 days.
